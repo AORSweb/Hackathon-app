@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+
+.auth-form-container {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: linear-gradient(79deg, #515052, #eae6ec);
+  }
+
+  .login-form, .register-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* // @media screen and (min-width: 600px) {
+  //   .auth-form-container {
+  //     padding: 5rem;
+  //     border: 1px solid white;
+  //     border-radius: 10px;
+  //     margin: 0.5rem;
+  //     min-height: 100vh;
+  //     align-items: center;
+  //     justify-content: center;
+  //     color: white;
+  //     background-image: linear-gradient(79deg, #64347a, #a41bff);
+  //   }
+  // } */
+
+  .login-signUp{
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+  label {
+    text-align: left;
+    padding: 0.25rem 0;
+  }
+  
+  input {
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    width: auto;
+  }
+  
+  /* button {
+    border: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    color: rgb(146, 26, 161);
+    width: 100%;
+  } */
+  
+  .link-btn {
+    background: none;
+    color: white;
+    text-decoration: underline;
+    width: auto;
+  }

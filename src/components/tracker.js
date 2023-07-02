@@ -60,7 +60,9 @@ const Tracker = () => {
             />
           </div>
         </div>
-        <h2 style={{ textAlign: "center" }}>Mentor's comments</h2>
+        <h2 style={{ textAlign: "center", marginTop: "10px" }}>
+          Mentor's comments
+        </h2>
         <div className="rev-sugg">
           <div className="rev-sugg-group">
             <label>Suggestion</label>

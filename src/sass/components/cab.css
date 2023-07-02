@@ -1,0 +1,23 @@
+.cabContainer {
+  background-color: white;
+  width: 500px;
+  height: 500px;
+  .header {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  .form {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.closeButton {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background-color: white;
+  border: none;
+  font-size: 24px;
+}

@@ -1,0 +1,27 @@
+.css-1869usk-MuiFormControl-root {
+  gap: 30px;
+}
+
+.guest-house-container {
+  background-color: white;
+  width: 550px;
+  height: 350px;
+  .header {
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+  }
+  .form {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.closeButtonB {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background-color: white;
+  border: none;
+  font-size: 24px;
+}

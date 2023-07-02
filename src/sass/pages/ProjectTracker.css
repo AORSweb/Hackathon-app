@@ -1,0 +1,10 @@
+.tracker-container {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  .details {
+    background-color: rgb(247, 247, 247);
+  }
+}

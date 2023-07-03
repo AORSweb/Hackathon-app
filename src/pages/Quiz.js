@@ -10,7 +10,7 @@ const Quiz = () => {
 
     function handleClick(e) {
         e.preventDefault();
-        let marksObtainedCurr = 0; q
+        let marksObtainedCurr = 0; 
         for(let i=0; i<savedAnswers.length; i++) {
             const index = savedAnswers[i].qid;
             const registeredAnswer = savedAnswers[i].value;

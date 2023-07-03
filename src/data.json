@@ -1,0 +1,133 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "Which essential condiment is also known as Japanese horseradish?",
+            "correct_answer": "Wasabi",
+            "answer_selected": "",
+            "option1": "Wasabi",
+            "option2": "Mentsuyu",
+            "option3": "Karashi",
+            "option4": "Ponzu"
+        },
+        {
+            "id": 1,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Medium",
+            "question": "In 2013 how much money was lost by Nigerian scams?",
+            "correct_answer": "$12.7 Billion",
+            "answer_selected": "",
+            "option1": "$95 Million",
+            "option2": "$12.7 Billion",
+            "option3": "$956 Million",
+            "option4": "$2.7 Billion"
+        },
+        {
+            "id": 2,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Medium",
+            "question": "Which of the buildings is example of a structure primarily built in the Art Deco architectural style?",
+            "correct_answer": "Niagara Mohawk Building",
+            "answer_selected": "",
+            "option1": "Taipei 101",
+            "option2": "One Detroit Center",
+            "option3": "Niagara Mohawk Building",
+            "option4": "Westendstrasse"
+        },
+        {
+            "id": 3,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+            "correct_answer": "Tandoori",
+            "answer_selected": "",
+            "option1": "Biryani",
+            "option2": "Pani puri",
+            "option3": "Tiki masala",
+            "option4": "Tandoori"
+        },
+        {
+            "id": 4,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Hard",
+            "question": "What is the German word for spoon?",
+            "correct_answer": "Loumlffel",
+            "answer_selected": "",
+            "option1": "Gabel",
+            "option2": "Loumlffel",
+            "option3": "Messer",
+            "option4": "Essstaumlbchen"
+        },
+        {
+            "id": 5,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Medium",
+            "question": "What is the Swedish word for window?",
+            "correct_answer": "Foumlnster",
+            "answer_selected": "",
+            "option1": "Foumlnster",
+            "option2": "Haringl",
+            "option3": "Skaumlrm",
+            "option4": "Ruta"
+        },
+        {
+            "id": 6,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Hard",
+            "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a Guardians of the Galaxy themed ride?",
+            "correct_answer": "Tower of Terror",
+            "option1": "Tower of Terror",
+            "option2": "The Haunted Mansion",
+            "option3": "Pirates of the Caribbean",
+            "option4": "Peter Pans Flight"
+        },
+        {
+            "id": 7,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Medium",
+            "question": "Which country drives on the left side of the road?",
+            "correct_answer": "Japan",
+            "answer_selected": "",
+            "option1": "Germany",
+            "option2": "Russia",
+            "option3": "Japan",
+            "option4": "China"
+        },
+        {
+            "id": 8,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "What is the currency of Poland?",
+            "correct_answer": "Zoty",
+            "answer_selected": "",
+            "option1": "Ruble",
+            "option2": "Euro",
+            "option3": "Krone",
+            "option4": "Zoty"
+        },
+        {
+            "id": 9,
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "Easy",
+            "question": "In ancient Greece, if your job were a hippeus which of these would you own?",
+            "correct_answer": "Horse",
+            "answer_selected": "",
+            "option1": "Horse",
+            "option2": "Weave",
+            "option3": "Guitar",
+            "option4": "Boat"
+        }
+    ]
+}
